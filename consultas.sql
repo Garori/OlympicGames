@@ -62,7 +62,7 @@ on ANO_CONQUISTA = ANO
 WHERE MEDALHA = 'GOLD' and 
 PAIS_ORIGEM = 'BRA' and ANO_CONQUISTA = 2012 AND TIPO = 'Summer';
 
-
+aaaaaaaaaaaaaaaaaaa
 
 --Quantas modalidades o Brasil ganhou. 
 
